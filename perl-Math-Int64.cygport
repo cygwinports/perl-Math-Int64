@@ -1,0 +1,10 @@
+CPAN_AUTHOR=salva
+inherit perl
+
+NAME="perl-Math-Int64"
+VERSION=0.54
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl Math::Int64 distribution"
+DESCRIPTION="This module adds support for 64 bit integers, signed and unsigned,
+to Perl."
